@@ -1,1 +1,1 @@
-# personal-website
+# staitic-website
